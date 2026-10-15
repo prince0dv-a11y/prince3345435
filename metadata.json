@@ -1,0 +1,6 @@
+{
+  "name": "Veloce Auto Works - Premier Car Service & Precision Maintenance",
+  "description": "High-precision automotive service, certified mechanical diagnostics, factory scheduled maintenance, transparent digital inspections, and instant service booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
